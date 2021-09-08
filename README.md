@@ -24,6 +24,8 @@ THEN I am again presented with current and future conditions for that city
 Mock-Up
 The following image shows the web application's appearance and functionality:
 
+![img of weatherconsole](https://github.com/sophiedeskin/weather-console/blob/main/06-server-side-apis-homework-demo.png)
+
 The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for Atlanta.
 
 Grading Requirements
